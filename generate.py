@@ -16,7 +16,7 @@ def create_resource_pack(version):
         'tweakeroo.json',
     ]
     def write_file(language, version):
-        in_file = os.path.join('Masa-Family-Bucket-Translation-Pack', language, file)
+        in_file = os.path.join('Masa-Mod-Translation-Pack', language, file)
         out_file = os.path.join('assets', file.split('.')[0], 'lang', language + '.json')
 
         with open(in_file, 'r', encoding='utf-8') as f:

@@ -17,27 +17,27 @@ base_url: "https://api.crowdin.com"
 #
 files: [
   {
-    "source": "Masa-Family-Bucket-Translation-Pack/en_us/itemscroller.json",
-    "translation": "Masa-Family-Bucket-Translation-Pack/%locale%/%original_file_name%",
+    "source": "Masa-Mod-Translation-Pack/en_us/itemscroller.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
   {
-    "source": "Masa-Family-Bucket-Translation-Pack/en_us/litematica.json",
-    "translation": "Masa-Family-Bucket-Translation-Pack/%locale%/%original_file_name%",
+    "source": "Masa-Mod-Translation-Pack/en_us/litematica.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
   {
-    "source": "Masa-Family-Bucket-Translation-Pack/en_us/syncmatica.json",
-    "translation": "Masa-Family-Bucket-Translation-Pack/%locale%/%original_file_name%",
+    "source": "Masa-Mod-Translation-Pack/en_us/syncmatica.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
   {
-    "source": "Masa-Family-Bucket-Translation-Pack/en_us/malilib.json",
-    "translation": "Masa-Family-Bucket-Translation-Pack/%locale%/%original_file_name%",
+    "source": "Masa-Mod-Translation-Pack/en_us/malilib.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
   {
-    "source": "Masa-Family-Bucket-Translation-Pack/en_us/minihud.json",
-    "translation": "Masa-Family-Bucket-Translation-Pack/%locale%/%original_file_name%",
+    "source": "Masa-Mod-Translation-Pack/en_us/minihud.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
   {
-    "source": "Masa-Family-Bucket-Translation-Pack/en_us/tweakeroo.json",
-    "translation": "Masa-Family-Bucket-Translation-Pack/%locale%/%original_file_name%",
+    "source": "Masa-Mod-Translation-Pack/en_us/tweakeroo.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   }
 ]
