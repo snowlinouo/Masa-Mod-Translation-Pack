@@ -48,7 +48,7 @@ def rename_mcmeta():
 
     data['pack']['pack_format'] = 32
     data['pack']['supported_formats'] = [ 9, 32 ]
-    data['pack']['description'] = '§e[1.20.4]MASA全家桶汉化包'
+    data['pack']['description'] = '§e[1.19-1.20]MASA全家桶汉化包'
 
     with open('pack.mcmeta', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
