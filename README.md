@@ -31,4 +31,4 @@
 
 感謝 [思梦Lri](https://github.com/DreamingLri) 與我一起協助簡體、繁體為往後 1.21 翻譯進行支援！
 
-相關 1.21 翻譯請往 [此倉庫](https://github.com/DreamingLri/masa-mods-chinese) 查看1
+相關 1.21 翻譯請往 [此倉庫](https://github.com/DreamingLri/masa-mods-chinese) 查看
