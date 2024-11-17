@@ -1,0 +1,31 @@
+{
+  "printingInterval": "printingInterval",
+  "printingRange": "printingRange",
+  "printingMode": "printingMode",
+  "replaceFluidSourceBlocks": "replaceFluidSourceBlocks",
+  "stripLogs": "stripLogs",
+  "interactBlocks": "interactBlocks",
+
+  "Printing Interval": "Printing Interval",
+  "Printing Range": "Printing Range",
+  "Printing Mode": "Printing Mode",
+  "Replace Fluid Source Blocks": "Replace Fluid Source Blocks",
+  "Strip Logs": "Strip Logs",
+  "Interact Blocks": "Interact Blocks",
+
+  "Printing interval. Lower values mean faster printing speed.\nIf the printer creates \"ghost blocks\" or blocks are facing the wrong way, raise this value.": "Printing interval. Lower values mean faster printing speed.\nIf the printer creates \"ghost blocks\" or blocks are facing the wrong way, raise this value.",
+  "Printing block place range\nLower values are recommended for servers.": "Printing block place range\nLower values are recommended for servers.",
+  "Autobuild / print loaded selection.\nBe aware that some servers and anticheat plugins do not allow printing.": "Autobuild / print loaded selection.\nBe aware that some servers and anticheat plugins do not allow printing.",
+  "Whether or not fluid source blocks should be replaced by the printer.": "Whether or not fluid source blocks should be replaced by the printer.",
+  "Whether or not the printer should use normal logs if stripped\nversions are not available and then strip them with an axe.": "Whether or not the printer should use normal logs if stripped\nversions are not available and then strip them with an axe.",
+  "Whether or not the printer should set block states.": "Whether or not the printer should set block states.",
+
+  "print": "print",
+  "togglePrintingMode": "togglePrintingMode",
+
+  "Print": "Print",
+  "Toggle Printing Mode": "Toggle Printing Mode",
+
+  "Prints while pressed": "Prints while pressed",
+  "Allows quickly toggling on/off Printing mode": "Allows quickly toggling on/off Printing mode"
+}

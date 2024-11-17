@@ -11,9 +11,13 @@ def create_resource_pack(version):
     file_list = [
         'itemscroller.json',
         'litematica.json',
+        'litematica-printer.json',
+        'syncmatica.json',
         'malilib.json',
         'minihud.json',
         'tweakeroo.json',
+        'masa_gadget_mod.json',
+        'masa_gadget_mod_minihud_i18n.json',
     ]
     def write_file(language, version):
         in_file = os.path.join('Masa-Mod-Translation-Pack', language, file)

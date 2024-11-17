@@ -1,0 +1,31 @@
+{
+  "printingInterval": "PrintingInterval | 打印间隔",
+  "printingRange": "PrintingRange | 打印范围",
+  "printingMode": "PrintingMode | 打印模式",
+  "replaceFluidSourceBlocks": "ReplaceFluid | 替换流体源",
+  "stripLogs": "StripLogs | 去除树皮",
+  "interactBlocks": "InteractBlocks | 调整方块状态",
+
+  "Printing Interval": "打印间隔",
+  "Printing Range": "打印范围",
+  "Printing Mode": "打印模式",
+  "Replace Fluid Source Blocks": "替换流体源",
+  "Strip Logs": "去除树皮",
+  "Interact Blocks": "互动方块",
+
+  "Printing interval. Lower values mean faster printing speed.\nIf the printer creates \"ghost blocks\" or blocks are facing the wrong way, raise this value.": "打印间隔，较低的值意味着更快的打印速度\n如果打印机产生「幽灵方块」或方块朝向错误，请提高此数值",
+  "Printing block place range\nLower values are recommended for servers.": "打印方块放置范围\n建议在服务器上使用较低的值",
+  "Autobuild / print loaded selection.\nBe aware that some servers and anticheat plugins do not allow printing.": "自动构建/打印已加载的选择区域\n请注意，某些服务器和反作弊插件不允许使用打印功能",
+  "Whether or not fluid source blocks should be replaced by the printer.": "打印机是否会替换流体源方块",
+  "Whether or not the printer should use normal logs if stripped\nversions are not available and then strip them with an axe.": "如果没有去皮木头，打印机是否会先放下普通木头，再进行斧头去皮操作",
+  "Whether or not the printer should set block states.": "打印机是否会调整方块状态\n译注：例如将活板门打开到正确位置",
+
+  "print": "Print | 打印",
+  "togglePrintingMode": "PrintingMode | 切换打印模式",
+
+  "Print": "打印",
+  "Toggle Printing Mode": "切换打印模式",
+
+  "Prints while pressed": "按住时打印",
+  "Allows quickly toggling on/off Printing mode": "允许快速开关打印模式"
+}

@@ -25,6 +25,10 @@ files: [
     "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
   {
+    "source": "Masa-Mod-Translation-Pack/en_us/litematica-printer.json",
+    "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
+  },
+  {
     "source": "Masa-Mod-Translation-Pack/en_us/syncmatica.json",
     "translation": "Masa-Mod-Translation-Pack/%locale%/%original_file_name%",
   },
