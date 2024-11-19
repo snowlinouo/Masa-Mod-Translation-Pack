@@ -11,7 +11,7 @@
     "minihud.gui.button.remove": "移除",
     "minihud.gui.button.shape_entry.enabled": "启用：%s",
     "minihud.gui.button.shape_renderer.spawn_sphere.toggle_use_quadrants": "使用角象限生成 %s",
-    "minihud.gui.button.shape_renderer_toggle": "形状渲染器 %ss",
+    "minihud.gui.button.shape_renderer_toggle": "形状渲染器 %s",
     "minihud.gui.button.shape_renderer.toggle_combine_quads": "单块显示：%s",
     "minihud.gui.button.hover.shape_renderer.spawn_sphere.toggle_use_quadrants": "§7角象限生成基本上是在由中心和边缘距离定义的\n§7矩形区域的四角上生成了 4 个独立的球体。\n§7角象限生成是旧的生成方式，此时如果半径增加\n§7到一定数量，它就会变得离谱（特别是在基点）。\n§7新的生成方式将不再使用角象限生成，\n§7而是「在边缘滑动生成球体」来创建最终的形状",
     "minihud.gui.label.center_colon": "中心：",
