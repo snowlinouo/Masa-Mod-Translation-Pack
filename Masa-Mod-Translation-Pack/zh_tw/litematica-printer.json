@@ -5,27 +5,22 @@
   "replaceFluidSourceBlocks": "ReplaceFluid | 取代流體源",
   "stripLogs": "StripLogs | 去除樹皮",
   "interactBlocks": "InteractBlocks | 調整方塊狀態",
-
   "Printing Interval": "列印間隔",
   "Printing Range": "列印範圍",
   "Printing Mode": "列印模式",
   "Replace Fluid Source Blocks": "取代流體源",
   "Strip Logs": "去除樹皮",
   "Interact Blocks": "互動方塊",
-
   "Printing interval. Lower values mean faster printing speed.\nIf the printer creates \"ghost blocks\" or blocks are facing the wrong way, raise this value.": "列印間隔，較低的值意味著更快的列印速度\n如果印表機產生「幽靈方塊」或方塊朝向錯誤，請提高此數值",
   "Printing block place range\nLower values are recommended for servers.": "列印方塊放置範圍\n建議在伺服器上使用較低的值",
   "Autobuild / print loaded selection.\nBe aware that some servers and anticheat plugins do not allow printing.": "自動構建/列印已載入的選擇區域\n請注意，某些伺服器和反作弊外掛程式不允許使用列印功能",
   "Whether or not fluid source blocks should be replaced by the printer.": "印表機是否會取代流體源方塊",
   "Whether or not the printer should use normal logs if stripped\nversions are not available and then strip them with an axe.": "如果沒有剝皮木塊，印表機是否會先放下普通木塊，再進行斧頭剝皮操作",
   "Whether or not the printer should set block states.": "印表機是否會調整方塊狀態\n譯註：例如將地板門開啟到正確位置",
-
   "print": "Print | 列印",
   "togglePrintingMode": "PrintingMode | 切換列印模式",
-
   "Print": "列印",
   "Toggle Printing Mode": "切換列印模式",
-
   "Prints while pressed": "按住時列印",
   "Allows quickly toggling on/off Printing mode": "允許快速開關列印模式"
 }
